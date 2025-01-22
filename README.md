@@ -1,5 +1,7 @@
 # pycounts_wz
 
+[![codecov](https://codecov.io/github/wzhu8410/pycounts_wz/graph/badge.svg?token=DW34MMZMKS)](https://codecov.io/github/wzhu8410/pycounts_wz)
+
 Calculate word counts in a text file!
 
 ## Installation
